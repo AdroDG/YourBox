@@ -1,4 +1,4 @@
-PSxBox
+YourBox
 ======
 
-Embedded service enabler based on node-webkit
+Embedded service enabler based on node-webkit.
